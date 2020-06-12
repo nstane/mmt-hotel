@@ -13,6 +13,7 @@ Make My Trip hotel api assignment sort by price rating and rooms available. Usin
 - npm install --save react react-dom
 - npm install --save-dev @types/react @types/react-dom
 - npm install --save-dev typescript ts-loader source-map-loader
+- npm install mobx-react --save
 - npm run build
 - npm run start
 
